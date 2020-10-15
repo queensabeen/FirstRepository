@@ -1,1 +1,2 @@
 Hello students
+Today is a GIT class
